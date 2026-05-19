@@ -16,7 +16,9 @@ Features:
 - Invoice Number  
 - Quantity  
 - Unit Price  
-- Invoice Date  
+- Invoice Date
+  Dataset is not included due to size constraints.
+It can be downloaded from the original source.  
 
 ## ⚙️ Data Preprocessing
 - Removed missing Customer IDs  
